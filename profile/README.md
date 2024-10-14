@@ -1,6 +1,6 @@
 # Welcome to [eoda!](https://www.eoda.de/en/home/)
 
-![image](eoda-logo-svg)
+![image](eoda-logo.svg)
 
 ##  Who are we? 🧐
 
